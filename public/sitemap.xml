@@ -1,103 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://-fbab68a6.zappy5.app</loc>
+    <loc>https://example.com</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://-fbab68a6.zappy5.app/gift-guide</loc>
+    <loc>https://example.com/gift-guide</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://-fbab68a6.zappy5.app/fan-stories</loc>
+    <loc>https://example.com/fan-stories</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://-fbab68a6.zappy5.app/about</loc>
+    <loc>https://example.com/about</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://-fbab68a6.zappy5.app/contact</loc>
+    <loc>https://example.com/contact</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://-fbab68a6.zappy5.app/products</loc>
+    <loc>https://example.com/products</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://-fbab68a6.zappy5.app/cart</loc>
+    <loc>https://example.com/cart</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://-fbab68a6.zappy5.app/checkout</loc>
+    <loc>https://example.com/checkout</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://-fbab68a6.zappy5.app/login</loc>
+    <loc>https://example.com/login</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://-fbab68a6.zappy5.app/account</loc>
+    <loc>https://example.com/account</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://-fbab68a6.zappy5.app/order-success</loc>
+    <loc>https://example.com/order-success</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://-fbab68a6.zappy5.app/product/:slug</loc>
+    <loc>https://example.com/product/:slug</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://-fbab68a6.zappy5.app/category/:slug</loc>
+    <loc>https://example.com/category/:slug</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://-fbab68a6.zappy5.app/thank-you</loc>
+    <loc>https://example.com/thank-you</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://-fbab68a6.zappy5.app/privacy</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://-fbab68a6.zappy5.app/terms</loc>
+    <loc>https://example.com/privacy</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://-fbab68a6.zappy5.app/accessibility</loc>
+    <loc>https://example.com/terms</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://example.com/accessibility</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

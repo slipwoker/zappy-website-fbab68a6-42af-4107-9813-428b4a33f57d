@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://-fbab68a6.zappy5.app
+https://example.com
 החנות הרשמית לאוהדי ביתר ירושלים! חולצות, צעיפים, דגלים ואביזרים בצהוב-שחור. הצטרפו למשפחה והפגינו גאווה עם מרצ׳נדייז בלעדי. כנסו עכשיו!
 
 ### מדריך מתנות
-https://-fbab68a6.zappy5.app/gift-guide
+https://example.com/gift-guide
 מחפשים מתנות לאוהדי ביתר ירושלים? ממחזיקי מפתחות ועד חולצות משחק מקוריות, המדריך שלנו יעזור לכם לבחור את השי המושלם שידליק את הלב השחור-צהוב. היכנסו!
 
 ### סיפורי מעריצים
-https://-fbab68a6.zappy5.app/fan-stories
+https://example.com/fan-stories
 סיפורי מעריצים מרגשים של אוהדי ביתר ירושלים על אהבה, נאמנות ורגעים בלתי נשכחים. קראו חוויות אמיתיות ושתפו את הסיפור שלכם. הצטרפו לקהילה!
 
 ### אודות
-https://-fbab68a6.zappy5.app/about
+https://example.com/about
 גלו את הסיפור של חנות אביזרי ביתר ירושלים – מפעל של אהבה לאותנטיות, מסורת וקהילת האוהדים השרופה ביותר בישראל. הכירו את החזון שמאחורי המותג.
 
 ### צור קשר
-https://-fbab68a6.zappy5.app/contact
+https://example.com/contact
 יש שאלה על חולצת ביתר ירושלים רשמית או הזמנה מיוחדת? צרו קשר עם צוות החנות – אנחנו כאן בשבילכם בכל נושא. בואו נדבר צהוב-שחור!
 
 ### Products
-https://-fbab68a6.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - ביתר ירושלים
 
 ### Cart
-https://-fbab68a6.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-fbab68a6.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-fbab68a6.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-fbab68a6.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-fbab68a6.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-fbab68a6.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - ביתר ירושלים
 
 ### Category
-https://-fbab68a6.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - ביתר ירושלים
 
 ### תודה שפניתם אלינו
-https://-fbab68a6.zappy5.app/thank-you
+https://example.com/thank-you
 ביתר ירושלים - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-fbab68a6.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-fbab68a6.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-fbab68a6.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -101,8 +101,8 @@ Sports Merchandise & Fan Accessories
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-fbab68a6.zappy5.app/sitemap.xml
-- Robots: https://-fbab68a6.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-fbab68a6.zappy5.app/llms-full.txt
-- Products (JSON): https://-fbab68a6.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-fbab68a6.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
