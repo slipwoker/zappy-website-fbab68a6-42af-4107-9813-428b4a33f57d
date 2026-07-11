@@ -1,0 +1,108 @@
+# ביתר ירושלים — Generative Engine Optimization Map
+
+> An online store dedicated to Beitar Jerusalem FC fans, selling official and fan merchandise including accessories, apparel, and memorabilia. The brand is deeply rooted in Israeli football culture with a passionate and loyal fanbase. The store embodies the club's identity, colors (yellow and black), and the intense pride of Beitar Jerusalem supporters.
+
+---
+
+## Pages
+
+### בית
+https://-fbab68a6.zappy5.app
+החנות הרשמית לאוהדי ביתר ירושלים! חולצות, צעיפים, דגלים ואביזרים בצהוב-שחור. הצטרפו למשפחה והפגינו גאווה עם מרצ׳נדייז בלעדי. כנסו עכשיו!
+
+### מדריך מתנות
+https://-fbab68a6.zappy5.app/gift-guide
+מחפשים מתנות לאוהדי ביתר ירושלים? ממחזיקי מפתחות ועד חולצות משחק מקוריות, המדריך שלנו יעזור לכם לבחור את השי המושלם שידליק את הלב השחור-צהוב. היכנסו!
+
+### סיפורי מעריצים
+https://-fbab68a6.zappy5.app/fan-stories
+סיפורי מעריצים מרגשים של אוהדי ביתר ירושלים על אהבה, נאמנות ורגעים בלתי נשכחים. קראו חוויות אמיתיות ושתפו את הסיפור שלכם. הצטרפו לקהילה!
+
+### אודות
+https://-fbab68a6.zappy5.app/about
+גלו את הסיפור של חנות אביזרי ביתר ירושלים – מפעל של אהבה לאותנטיות, מסורת וקהילת האוהדים השרופה ביותר בישראל. הכירו את החזון שמאחורי המותג.
+
+### צור קשר
+https://-fbab68a6.zappy5.app/contact
+יש שאלה על חולצת ביתר ירושלים רשמית או הזמנה מיוחדת? צרו קשר עם צוות החנות – אנחנו כאן בשבילכם בכל נושא. בואו נדבר צהוב-שחור!
+
+### Products
+https://-fbab68a6.zappy5.app/products
+המוצרים שלנו - ביתר ירושלים
+
+### Cart
+https://-fbab68a6.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-fbab68a6.zappy5.app/checkout
+תשלום
+
+### Login
+https://-fbab68a6.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-fbab68a6.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-fbab68a6.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-fbab68a6.zappy5.app/product/:slug
+פרטי המוצר - ביתר ירושלים
+
+### Category
+https://-fbab68a6.zappy5.app/category/:slug
+מוצרים - ביתר ירושלים
+
+### תודה שפניתם אלינו
+https://-fbab68a6.zappy5.app/thank-you
+ביתר ירושלים - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-fbab68a6.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-fbab68a6.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-fbab68a6.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ביתר ירושלים
+An online store dedicated to Beitar Jerusalem FC fans, selling official and fan merchandise including accessories, apparel, and memorabilia. The brand is deeply rooted in Israeli football culture with a passionate and loyal fanbase. The store embodies the club's identity, colors (yellow and black), and the intense pride of Beitar Jerusalem supporters.
+
+## Target Audience
+- אוהדי ביתר ירושלים
+- חובבי כדורגל
+- מחפשי מתנות לאוהדים
+
+## Industry
+Sports Merchandise & Fan Accessories
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-fbab68a6.zappy5.app/sitemap.xml
+- Robots: https://-fbab68a6.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-fbab68a6.zappy5.app/llms-full.txt
+- Products (JSON): https://-fbab68a6.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-fbab68a6.zappy5.app/product-feed.xml
